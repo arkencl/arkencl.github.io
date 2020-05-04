@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arkencl</title>
-    <link>https://arkencl.dev/</link>
+    <link>arkencl.github.io/</link>
     <description>Recent content on arkencl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://arkencl.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="arkencl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://arkencl.dev/about/about/</link>
+      <link>arkencl.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkencl.dev/about/about/</guid>
+      <guid>arkencl.github.io/about/about/</guid>
       <description>&lt;h1 id=&#34;about-georg-göring&#34;&gt;About Georg Göring&lt;/h1&gt;
 </description>
     </item>
