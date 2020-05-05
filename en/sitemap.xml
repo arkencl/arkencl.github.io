@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>arkencl.github.io/about/about/</loc>
-  </url>
-  
-  <url>
     <loc>arkencl.github.io/about/</loc>
   </url>
   
@@ -16,11 +12,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="arkencl.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,11 +29,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="arkencl.github.io/categories/"
                 />
@@ -54,11 +40,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="arkencl.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/tags/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="arkencl.github.io/de/"
                 />
@@ -30,11 +25,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="arkencl.github.io/de/categories/"
                 />
@@ -46,11 +36,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="arkencl.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="arkencl.github.io/menu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
