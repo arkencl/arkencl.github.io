@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>arkencl.github.io/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="arkencl.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="arkencl.github.io/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="arkencl.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>arkencl.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="arkencl.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="arkencl.github.io/menu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="arkencl.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>arkencl.github.io/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="arkencl.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="arkencl.github.io/menu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="arkencl.github.io/de/tags/"
+                />
+  </url>
+  
+</urlset>
