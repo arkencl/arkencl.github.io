@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>arkencl.github.io/about/</loc>
+    <loc>https://arkencl.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>arkencl.github.io/</loc>
+    <loc>https://arkencl.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/"
+                href="https://arkencl.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/"
+                href="https://arkencl.github.io/"
                 />
   </url>
   
   <url>
-    <loc>arkencl.github.io/categories/</loc>
+    <loc>https://arkencl.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/categories/"
+                href="https://arkencl.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/categories/"
+                href="https://arkencl.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>arkencl.github.io/projects/</loc>
+    <loc>https://arkencl.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>arkencl.github.io/tags/</loc>
+    <loc>https://arkencl.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/tags/"
+                href="https://arkencl.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/tags/"
+                href="https://arkencl.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>arkencl.github.io/to-do/</loc>
+    <loc>https://arkencl.github.io/to-do/</loc>
   </url>
   
 </urlset>
