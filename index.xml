@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arkencl</title>
-    <link>https://arkencl.dev/</link>
+    <link>arkencl.github.io/</link>
     <description>Recent content on arkencl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://arkencl.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="arkencl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://arkencl.dev/about/</link>
+      <link>arkencl.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkencl.dev/about/</guid>
+      <guid>arkencl.github.io/about/</guid>
       <description>&lt;p&gt;Hello, dear Reader!&lt;/p&gt;
 &lt;p&gt;My name is Georg Göring, a masters graduate in Computer Science.
 Programming and by proxy the act of learning always has been a passion of mine as evidenced by a constant involvement in one of, if not the largest
@@ -52,20 +52,20 @@ and plan to dip into a couple of other Database Systems.&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>https://arkencl.dev/projects/</link>
+      <link>arkencl.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkencl.dev/projects/</guid>
+      <guid>arkencl.github.io/projects/</guid>
       <description>&lt;p&gt;Nothing to see here yet&amp;hellip; Move along!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>To-do</title>
-      <link>https://arkencl.dev/to-do/</link>
+      <link>arkencl.github.io/to-do/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arkencl.dev/to-do/</guid>
+      <guid>arkencl.github.io/to-do/</guid>
       <description>&lt;p&gt;Nothing to see here yet&amp;hellip; Move along!&lt;/p&gt;
 </description>
     </item>
