@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arkencl</title>
-    <link>https://arkencl.github.io/de/</link>
+    <link>arkencl.dev/de/</link>
     <description>Recent content on arkencl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://arkencl.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="arkencl.dev/de/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
