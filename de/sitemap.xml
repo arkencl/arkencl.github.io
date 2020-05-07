@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>arkencl.github.io/de/</loc>
+    <loc>https://arkencl.dev/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/"
+                href="https://arkencl.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/"
+                href="https://arkencl.dev/de/"
                 />
   </url>
   
   <url>
-    <loc>arkencl.github.io/de/categories/</loc>
+    <loc>https://arkencl.dev/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/categories/"
+                href="https://arkencl.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/categories/"
+                href="https://arkencl.dev/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>arkencl.github.io/de/tags/</loc>
+    <loc>https://arkencl.dev/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="arkencl.github.io/tags/"
+                href="https://arkencl.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="arkencl.github.io/de/tags/"
+                href="https://arkencl.dev/de/tags/"
                 />
   </url>
   
