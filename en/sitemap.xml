@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://arkencl.dev/de/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://arkencl.dev/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,6 +36,10 @@
                 hreflang="en"
                 href="https://arkencl.dev/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://arkencl.dev/de/</loc>
   </url>
   
   <url>
