@@ -4,10 +4,16 @@
   
   <url>
     <loc>https://arkencl.dev/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://arkencl.dev/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://arkencl.dev/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arkencl.dev/about/"
+                />
   </url>
   
   <url>
@@ -39,10 +45,6 @@
   </url>
   
   <url>
-    <loc>https://arkencl.dev/de/</loc>
-  </url>
-  
-  <url>
     <loc>https://arkencl.dev/projects/</loc>
   </url>
   
@@ -61,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://arkencl.dev/to-do/</loc>
+    <loc>https://arkencl.dev/todo/</loc>
   </url>
   
 </urlset>

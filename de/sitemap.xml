@@ -44,4 +44,18 @@
                 />
   </url>
   
+  <url>
+    <loc>https://arkencl.dev/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arkencl.dev/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://arkencl.dev/de/about/"
+                />
+  </url>
+  
 </urlset>

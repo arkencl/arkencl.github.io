@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Des on arkencl</title>
+    <title>arkencl</title>
     <link>https://arkencl.dev/de/</link>
-    <description>Recent content in Des on arkencl</description>
+    <description>Recent content on arkencl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -11,35 +11,45 @@
     
     
     <item>
-      <title>About</title>
+      <title>Über mich</title>
       <link>https://arkencl.dev/de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arkencl.dev/de/about/</guid>
-      <description>&lt;p&gt;Hello, dear Reader!&lt;/p&gt;
-&lt;p&gt;My name is Georg Göring, a masters graduate in Computer Science.
-Programming and by proxy the act of learning always has been a passion of mine as evidenced by a constant involvement in one of, if not the largest
-programming discord servers with 40000+ members where I&amp;rsquo;ve been active as a moderator and as a helper primarily in java.
-I&amp;rsquo;m also a member of a Java User Group called JUG Ostfalen which is active in the wider area of Brunswick and Wolfsburg.&lt;/p&gt;
-&lt;p&gt;After acquiring my degree the April of 2020, i&amp;rsquo;ve also started working on numerous side projects and hope to widen my technological horizon.&lt;/p&gt;
+      <description>&lt;p&gt;Hallo, lieber Leser!&lt;/p&gt;
+&lt;p&gt;Ich bin Georg Göring, ein Software Entwickler mit abgeschlossenem Master-Studium.
+Programmieren und neues dazu zu lernen war immer eine große Leidenschaft von mir,
+was ganz gut an meinem Engagement in einer der größten Programmiergemeinschaften auf Discord zu sehen ist
+in der ich als Moderator im gesamten Server und Helferling unteranderem im Java Bereich helfe.
+Ich bin ebenfalls Mitglied der Java User Gruppe JUG Ostfalen welche im größerem Raume Braunschweig / Wolfsburg aktiv ist.&lt;/p&gt;
+&lt;p&gt;Nachdem ich im April des Jahres 2020 meinen Master Abschluss erhalten habe, habe ich auch angefangen an mehreren Nebenprojekten
+zu arbeiten und hoffe dadurch meinen technologischen Horizont zu erweitern.&lt;/p&gt;
 &lt;h2 id=&#34;jug-ostfalen&#34;&gt;JUG Ostfalen&lt;/h2&gt;
-&lt;p&gt;Are you somewhere in the wider area of Brunswick and are an interested Java Developer?
-Then visit the following link of the &lt;a href=&#34;https://www.jug-ostfalen.de/&#34;&gt;JUG Ostfalen&lt;/a&gt;. A great source
-of knowledge in the java ecosystem and a growing community that writes articles, holds regular talks
-and organizes workshops.&lt;/p&gt;
+&lt;p&gt;Bist du irgendwo im groben Umfeld von Braunschweig/Wolfsburg aktiv und ein interessierter Java Entwickler?
+Dann solltest du die &lt;a href=&#34;https://www.jug-ostfalen.de/&#34;&gt;JUG Ostfalen&lt;/a&gt; besuchen.
+Eine großartige Quelle von Wissen innerhalb des Java Ökosystems und eine wachsende community welche
+Artikel schreibt, regelmäßige Vorträge mit interessanten Referanten haltet und diverse Workshops organisiert.&lt;/p&gt;
 &lt;h2 id=&#34;discord&#34;&gt;Discord&lt;/h2&gt;
-&lt;p&gt;Feel free to join &lt;a href=&#34;discord.gg/programming&#34;&gt;The Programmers Hangout&lt;/a&gt; one of the largest programming discord servers with 40000+ members.
-Make sure to familiarize yourself with our rules when joining and I hope you have great time learning and chatting with everyone.&lt;/p&gt;
-&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m proficient in the java ecosystem including the enterprise edition apis and the Spring Framework including Spring Boot and its numerous starters. As well as some light scripting with Groovy primarily in Jenkins Pipelines or Jenkins Pipeline Libraries. Dabbling in different languages as time goes on by creating projects I find personally interesting.&lt;/p&gt;
-&lt;h2 id=&#34;databases&#34;&gt;Databases&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve professionally worked with PostgreSQL, MySQL, Oracle DB, DB2 LUW/zOS and Neo4j.
-In my open source projects so far I&amp;rsquo;ve been trying out mongodb, sqlite, mariadb
-and plan to dip into a couple of other Database Systems.&lt;/p&gt;
-&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
-&lt;p&gt;Besides Programming and Gaming (Boardgames, Pen&amp;amp;Paper and of course videogames)
-on my PC, i also like to drive around with my bicycle or some simple running
-to stay healthy and enjoy the nature around me.&lt;/p&gt;
+&lt;p&gt;Du bist natürlich auch herzlich eingeladen dem &lt;a href=&#34;discord.gg/programming&#34;&gt;Programmers Hangout&lt;/a&gt; beizutreten und neben mehr als 40000 anderen Mitgliedern
+über diverse Themen zu reden, Ideen für neue Projekte zu erhalten oder Hilfe beim Problemlösungsprozess zu erhalten. Du
+solltest aber aufjedenfall unseren Regelkanal im Discord Server besuchen und ein bisschen damit familiär machen, ich wünsche dir
+vorab schon eine schöne Zeit mit allen anderen zu lernen.&lt;/p&gt;
+&lt;h2 id=&#34;sprachen&#34;&gt;Sprachen&lt;/h2&gt;
+&lt;p&gt;Ich habe die meiste Erfahrung im Java Ökosystem inklusive der enterprise editions apis und dem Spring Framework welches unteranderem Spring Boot und die diversen
+Starter umfasst. Des Weiteren ein bisschen scripten mit Groovy, primär innerhalb von Jenkins Pipelines oder
+Jenkin Pipeline Bibliotheken. Mit Javascript und Typescript habe ich schon im Frontend gearbeitet,
+mit anderen Sprachen und Technologien mach ich mich aktuell durch meine auf Github verfügbaren Projekten vertraut.&lt;/p&gt;
+&lt;h2 id=&#34;datenbanken&#34;&gt;Datenbanken&lt;/h2&gt;
+&lt;p&gt;Ich habe mit so ziemlich jeder relationalen Datenbank mal gearbeitet, am meisten mit PostgreSQL, MySQL, Oracle Datenbanken
+und der DB2 Datenbanken. NoSQL Datenbanken habe ich professionell nur ein bisschen mit
+Neo4j gearbeitet, aber wie schon oben erwähnt probier ich in meinen OSS Projekten
+auch andere NoSQL Datenbanken aus.&lt;/p&gt;
+&lt;h2 id=&#34;meine-hobbies&#34;&gt;Meine Hobbies&lt;/h2&gt;
+&lt;p&gt;Neben der Programmierung des Spielens (Brettspiele, Pen&amp;amp;Paper und natürlich Videospielen)
+auf meinem PC, mag ich auch ganz gern die Natur genießen indem ich entweder
+meine Laufschuhe auspacke oder mit meinem Fahrra im Freien auf Erkundungstour gehe.
+Nachdem die Korona-Krise überstanden ist, würde ich auch gerne wieder mit
+dem Bogenschießen anfangen.&lt;/p&gt;
 </description>
     </item>
     
